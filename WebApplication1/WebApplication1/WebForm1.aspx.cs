@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using System.Data.SqlClient;
 using System.Data;
 using System.Drawing;
+using system.configuration;
 
 namespace WebApplication1
 {
